@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Libraries
+lib
+
+# Idea
+.idea
+
+# cmake
+cmake-build-*
